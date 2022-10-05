@@ -3,37 +3,42 @@
 
 using namespace std;
 
-const double PI = 3.142;
-
-// Function to calculate area
-double findArea(double x)
+class Circle
 {
-    double ans = PI * pow(x, 2);
-    return ans;
-}
+    private:
+        float radius, area, circumference;
+        const float PI = 3.142;
 
-// Function to calculate circumference
-double findCircumference(double y)
-{
-    double ans = PI * (2 * y);
-    return ans;
-}
+    public:
+        float getArea()
+        {
+            cout << "Enter a radius: ";
+            cin >> radius;
+            float area = PI * pow(radius, 2);
+            return area;
+        }
+
+        float getCircumference()
+        {
+            cout << "Enter a radius: ";
+            cin >> radius;
+
+            float circ = PI * (2 * radius);
+            return circ;
+        }
+};
+
+
 
 int main()
 {
-    // Program to compute the area and circumference of a circle
-    double radius, area, circumference;
+    Circle one;
+    float area = one.getArea();
 
-    cout << "Enter the radius: ";
-    cin >> radius;
+    cout << "The area is " << area << endl;
 
-    // Calculating the area
-    area = findArea(radius);
-    cout << "The area of a circle of radius " << radius << " is " << area << endl;
+    float circumference = one.getCircumference();
+    cout << "The circumference is " << circumference << endl;
 
-    // Calculating the circumference
-    circumference = findCircumference(radius);
-    cout << "The circumference of a circle of radius " << radius << " is " << circumference << endl;
-    
     return 0;
 }
