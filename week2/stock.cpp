@@ -33,6 +33,8 @@ class Stock
             float responseQuant;
             float totalSale;
 
+            char response = 'S';
+
             // cout << "What would you like to buy? ";
             
             // for (int i = 0, n = strlen(responseName); i < n; i++)
