@@ -10,6 +10,6 @@ Welcome to week one. By the end of this week, you should be able to explain to a
 
 
 <details>
-<summary>Decisions and branching in C++</summary>
-
+<summary>Branching in C++ </summary>
+<a href="https://www.tutorialride.com/cpp/decision-making-looping-structure-in-c.htm"><p>Decisions and branching in C++ </p>
 </details>
