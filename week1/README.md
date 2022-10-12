@@ -4,4 +4,7 @@ Welcome to week one. By the end of this week, you should be able to explain to a
 <details>
 <Summary>Introduction to programming in C++ </summary>
 <a href="https://www.techopedia.com/definition/26184/c-plus-plus-programming-language">What is C++</a>
+<br/>
+<a href="https://www.toppr.com/guides/computer-science/introduction-to-c/getting-started-with-c/structure-of-a-c-program/">The structure of a C++ programm </a>
+</br>
 </details>
