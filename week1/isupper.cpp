@@ -23,6 +23,7 @@ int main(void)
         }
         
     }
+    /** the character is not an alphabet **/
     else
     {
         cout << ch << "Is not even an alphabet, its impossible to determine its case\n";
