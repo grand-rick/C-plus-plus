@@ -1,4 +1,4 @@
-<p align="center"><img alt='cpp-logo' src='./.documentation/cpp-logo.png' width='40%' align="center" display="block" margin-left='auto' margin-right='auto'></p>
+<p align="center"><img alt='cpp-logo' src='./.documentation/cpp-logo.png' width='126X65' align="center" display="block" margin-left='auto' margin-right='auto'></p>
 
 
 # C-plus-plus
