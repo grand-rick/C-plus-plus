@@ -7,4 +7,5 @@
 | Write program that takes an interger from  the user and checks if its odd or even.                                                                                     | <a href="../week1/odd-even.cpp"> Solution</a>      |
 |Write a program in C++ to find Size of fundamental data types  | <a href="../week1/datatypes.cpp"> Solution</a>  |
 | Given that the capacity of a Bus is 50 seats, write a program the takes the number of passengers from standard input and prints the number of empty seats to stdout | <a href="../week1/bus.cpp"> Solution</a> |
-| Write a program that takes a character from the standard input and checks if the character is an alphabet or not| <a href="../week1/alphabet.c"> Solution</a> |
+| Write a program that takes a character from the standard input and checks if the character is an alphabet or not| <a href="../week1/alphabet.cpp"> Solution</a> |
+|Write a program that takes a character from the standard input and checks its case (Uppercase or lowercase)| <a href="../week1/isupper.cpp"> Solution</a>
