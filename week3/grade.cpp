@@ -33,11 +33,6 @@ int main()
 }
 
 
-
-
-
-
-
 float Grades::input_mark()
 {
     float mark = 0.0f;
