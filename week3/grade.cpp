@@ -22,8 +22,6 @@ int main()
     float mark2 = one.input_mark();
     float mark3 = one.input_mark();
 
-    ?M<>>????????/////kkkkkkktrrtfg
-
     float mean = one.get_mean(mark1, mark2, mark3);
 
     char grade = one.get_grade(mean);
