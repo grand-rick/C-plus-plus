@@ -3,13 +3,11 @@ Welcome to week one. By the end of this week, you should be able to explain to a
 
 <details>
 <Summary>Introduction to programming in C++ </summary>
-<ol>
-<li><a href="https://www.techopedia.com/definition/26184/c-plus-plus-programming-language"><p>What is C++</p></a></li>
-<li><a href="https://www.toppr.com/guides/computer-science/introduction-to-c/getting-started-with-c/structure-of-a-c-program/"><p>The structure of a C++ program </p></a></li>
-<li><a href="https://www.codecademy.com/resources/docs/cpp/data-types"><p>Data types in C++ </p></a></li>
-<li><a href="https://www.google.com/search?q=Variables+in+C%2B%2B"><p>Variables in C++ </p></a></li>
-<li><a href="https://cplusplus.com/doc/tutorial/operators/"><p>Operators in C++ </p></a></li>
-</ol>
+<a href="https://www.techopedia.com/definition/26184/c-plus-plus-programming-language"><p>What is C++</p></a>
+<a href="https://www.toppr.com/guides/computer-science/introduction-to-c/getting-started-with-c/structure-of-a-c-program/"><p>The structure of a C++ program </p></a>
+<a href="https://www.codecademy.com/resources/docs/cpp/data-types"><p>Data types in C++ </p></a>
+<a href="https://www.google.com/search?q=Variables+in+C%2B%2B"><p>Variables in C++ </p></a>
+<a href="https://cplusplus.com/doc/tutorial/operators/"><p>Operators in C++ </p></a>
 </details>
 <a href="../.exercises/week1-exercises.md"><p>Week 1 exercises</p></a>
 
