@@ -7,3 +7,6 @@ Welcome to week Two. By the end of this week, you should be able to explain to a
 4. [Do while Loop](https://www.javatpoint.com/cpp-do-while-loop)
 5. [Functions](https://www.youtube.com/watch?v=p8ehAjZWjPw)
 6. [Introduction to OOP - Classes](https://medium.com/@bhprtk/introduction-to-c-class-48763f146009)
+
+
+<a href="./.exercises/week2-exercises.md">Week two exericises </a>
