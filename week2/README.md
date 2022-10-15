@@ -9,4 +9,4 @@ Welcome to week Two. By the end of this week, you should be able to explain to a
 6. [Introduction to OOP - Classes](https://medium.com/@bhprtk/introduction-to-c-class-48763f146009)
 
 
-<a href="./.exercises/week2-exercises.md">Week two exericises </a>
+<a href="./../.exercises/week2-exercises.md">Week two exericises </a>
