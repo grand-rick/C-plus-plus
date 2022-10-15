@@ -9,4 +9,9 @@
 <tr>
 <td>Write a program that takes a number of ararys of interegers from the user and prints them back to the standard output</td>
 <td><a href="./../week2/arr.cpp">Solution</a></td>
+</tr>
+
+<tr>
+<td>Write a class Circle with the following private members : area, radius and circumference and a constant PI = 3.14. Implement functions to get the radius from stdin and compute the area and circumference and print out the values to stdout</td>
+<td><a href="./../week2/circle.cpp">Solution</a></td>
 </table>
