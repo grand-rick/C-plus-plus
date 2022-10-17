@@ -5,3 +5,4 @@ Welcome to week Three. By the end of this week, you should be able to explain to
 2. [More OOP Concepts](https://www.google.com/search?q=object+oriented+programming+c)
 3. [Pointers](https://www.guru99.com/cpp-pointers.html)
 4. [Member functions](https://www.tutorialspoint.com/cplusplus/cpp_class_member_functions.htm)
+5. [typeid in C++](https://www.google.com/search?client=firefox-b-e&q=typeid+%28%29+function+in+C%2B%2B)
