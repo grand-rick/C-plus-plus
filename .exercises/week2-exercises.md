@@ -16,12 +16,10 @@
       <td>Write a class Circle with the following private members : area, radius and circumference and a constant PI = 3.14. Implement functions to get the radius from stdin and compute the area and circumference and print out the values to stdout</td>
       <td><a href="./../week2/circle.cpp">Solution</a></td>
     </tr>
-
     <tr>
       <td>The details of an item are the name, price and quantity in stock. The opearations performed on the item are registering an item( Update quantity in stock) and sell an item (update quantity in stock.) Implement this using classes</td>
       <td><a href="./../week2/stock.cpp">Solution</a></td>
     </tr>
-
     <tr>
       <td>Write two functions <code>getArea()</code> and <code>getPerimeter()</code> that both take two parameters of float type and calculate the area and perimeter respectively and return it. Write a whole program to get the dimensions from the stdin and Print the area and perimeter based on the inputs. </td>
       <td><a href="./../week2/rect.cpp">Solution</a></td>
