@@ -11,4 +11,7 @@
 <td>Implement a class Grades and write functions to get the scores from stdin, compute the mean score and compute the grade based on the mean score</td>
 <td><a href="./../week3/grade.cpp">Solution</a><td>
 </tr>
+<tr>
+<td>Write a function that takes two strings from standard input, concatenates the two strings into one and print the result to standard output. ( You can use classes too)</td>
+<td><a href="./../week3/conc.cpp">Solution</a><td>
 </table>
