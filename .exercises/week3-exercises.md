@@ -14,4 +14,8 @@
 <tr>
 <td>Write a function that takes two strings from standard input, concatenates the two strings into one and print the result to standard output. ( You can use classes too)</td>
 <td><a href="./../week3/conc.cpp">Solution</a><td>
+</tr>
+<tr>
+<td>Write a C++ program to check whether a number is palindorome or not</td>
+<td><a href="./../week3/palindrome.cpp">Solution</a></td>
 </table>
