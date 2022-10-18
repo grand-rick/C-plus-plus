@@ -22,6 +22,12 @@ int main()
     float mark2 = one.input_mark();
     float mark3 = one.input_mark();
 
+    if (mark1 < 0 || mark1 > 100 || mark2 < 0 || mark2 > 100 || mark3 < 0 || mark3 > 100)
+    {
+        cout << "Please limit the range of input to 0-100" << endl;
+        return 1;
+    }
+
     float mean = one.get_mean(mark1, mark2, mark3);
 
     char grade = one.get_grade(mean);
