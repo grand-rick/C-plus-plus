@@ -7,5 +7,6 @@ Welcome to week Three. By the end of this week, you should be able to explain to
     * [Classes](https://www.learncpp.com/cpp-tutorial/classes-and-class-members/)
     * [Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
     * [Class Members](https://www.studytonight.com/cpp/accessing-data-members.php)
+    * [Class functions](https://www.tutorialspoint.com/cplusplus/cpp_class_member_functions.htm)
 
 
