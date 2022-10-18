@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+     /* This is the declaration of the variables and the input of the number. */
      int n, num, digit, rev = 0;
 
      cout << "Enter a positive number: ";
@@ -10,6 +11,7 @@ int main()
 
      n = num;
 
+    /* Reversing the number and then checking if the number is a palindrome. */
      do
      {
          digit = num % 10;
