@@ -3,7 +3,7 @@ Welcome to week Three. By the end of this week, you should be able to explain to
 
 *   [Introduction to Object Oriented Programming](https://medium.com/practicum-bootcamp/introduction-to-object-oriented-programming-34cc3b7ab582)
 *   [OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
-*   More OOP concepts
+*   Week 3 OOP concepts
     * [Classes](https://www.learncpp.com/cpp-tutorial/classes-and-class-members/)
     * [Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
     * [Class Members](https://www.studytonight.com/cpp/accessing-data-members.php)
