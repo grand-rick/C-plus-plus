@@ -9,4 +9,6 @@ Welcome to week Three. By the end of this week, you should be able to explain to
     * [Class Members](https://www.studytonight.com/cpp/accessing-data-members.php)
     * [Class functions](https://www.tutorialspoint.com/cplusplus/cpp_class_member_functions.htm)
 
+[Exercises](../.exercises/week3-exercises.md)
+
 
