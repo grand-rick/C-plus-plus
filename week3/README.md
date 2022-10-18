@@ -5,6 +5,6 @@ Welcome to week Three. By the end of this week, you should be able to explain to
 *   [OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
 *   More OOP concepts
     * [Classes](https://www.learncpp.com/cpp-tutorial/classes-and-class-members/)
-    *[Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
+    * [Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
 
 
