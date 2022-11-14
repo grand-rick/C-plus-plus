@@ -37,3 +37,8 @@ int main(void)
 
 ```
 
+If we compile and run the above program, the output will be  *__Constructor called__* this is because the method Student() is called automaticaly any object of class Student is created, if we created  as many as a thousand objects of the Student class, the phrase *__Constructor called__*  would be printed to standard output a thousand times because the constructor is called each time an object is created. 
+
+
+
+
