@@ -4,6 +4,7 @@ These are the learning objective for this week, by the end of the session, you s
 
 
 * [X] [Constructors in C-plus-plus](https://www.w3schools.com/cpp/cpp_constructors.asp)
+* [X] [Inheritance in C-plus-plus](https://www.programiz.com/cpp-programming/inheritance)
 
 ### What are constructors?
 
@@ -51,4 +52,4 @@ Note that contructors are always public and have no return type.
     * [Copy Constructors](https://www.geeksforgeeks.org/copy-constructor-in-cpp/)
 
 
-[Exercises](../.exercises/week4-exercises.md)
+[Inheritance Exercises](../.exercises/week4-exercises.md)
