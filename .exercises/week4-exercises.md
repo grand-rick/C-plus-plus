@@ -30,4 +30,16 @@ Write a class Student with two private members - admNumber and name. Declare and
 <a href="../week4/con.cpp">Solution</a>
 </td>
 </tr>
+
+<tr>
+<td>
+Write a class Phone with four private members: name, battery, processor and RAM, a method to print all of these to standard output. 
+</td>
+
+<td><a href="../week4/phone.cpp">Solution</a></td>
+</tr>
+
+<tr>
+<td>Write a C plus plus program to find the area of a rectangle using constructors </td>
+</tr>
 </table>
