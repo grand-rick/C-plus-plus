@@ -13,4 +13,13 @@
 <a href="../week4/inheritance/inh.cpp">Solution</a>
 </td>
 </tr>
+
+<tr>
+<td>
+Write a class Student with two private members - admNumber and name. Declare and define a parameterized constructor that takes two parameters of type string and initializes and object with these two parameters as the name and admission number.
+</td>
+<td>
+<a href="../week4/sample.cpp">Solution</a>
+</td>
+</tr>
 </table>
