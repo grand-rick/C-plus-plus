@@ -57,4 +57,11 @@ Note that contructors are always public and have no return type.
 
 <br>
 
+Just to recap what we have covered, 
+* Constructors can only be public
+* Constructors are not inherited under normal circumstances
+* Constructors have no data type. Constructors can’t return any value. Even we can’t use void for the constructor.
+* Constructors can have arguments
+* The Constructor can’t be referred by its address.
+
 [Exercises](../.exercises/week4-exercises.md)
