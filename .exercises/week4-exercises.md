@@ -22,4 +22,12 @@ Write a class Student with two private members - admNumber and name. Declare and
 <a href="../week4/sample.cpp">Solution</a>
 </td>
 </tr>
+
+<tr>
+<td>Write a class Person with one private member, a method to print the name to standard output and a parameterized constructor that takes one parameter and crates and object with the name property set to the parameter.</td>
+
+<td>
+<a href="../week4/con.cpp">Solution</a>
+</td>
+</tr>
 </table>
