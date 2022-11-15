@@ -41,5 +41,7 @@ Write a class Phone with four private members: name, battery, processor and RAM,
 
 <tr>
 <td>Write a C plus plus program to find the area of a rectangle using constructors </td>
+
+<td><a href="../week4/constructors/rectangle.cpp">Solution</a></td>
 </tr>
 </table>
