@@ -76,3 +76,11 @@ __Base Class__  is the class whose members and  methods ( properties and charact
 
 __Derived Class__ is the class that inherits the properties of the Base class.
 
+
+## Why Inheritance 
+
+
+Consider a group of vehicles, you want to create class for the different types of vehicles available i.e Bus, Car and Truck.
+
+All of these vehicles have some similarities, they all need to be fueld, serviced and they all have a certain capacity they can carry. If we were to implement this without using classes, we would end up writting the same code for these features for the different classes.  Using Inhertance however, we can just create a base class Vehicle and create child classes from that with the specifics that match each vehicle. This would reduce redundancy of code and allow code reusability.
+
