@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to week 4 of programming in C++ </h2>
+<h1 align="center"> Welcome to week 4 of programming in C++ </h1>
 These are the learning objective for this week, by the end of the session, you should be able to explain to anyone without the help of google the following concepts 
 
 
