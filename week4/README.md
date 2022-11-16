@@ -138,4 +138,5 @@ class Mammals : public Animal
 ```
 
 ### Modes of inheritance 
+In C++ inheritance, we can derive a child class from the base class in different access modes, which defines how the class members and functions can be accessed.
 
