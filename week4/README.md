@@ -122,13 +122,17 @@ Class Animal
             age += moreAge;
             return(age);
         }
+
+        void getName()
+        {
+            cout << name << "is the Name\n";
+        }
 };
 
 class Mammals : public Animal
 {
 
 };
-
 
 
 ```
