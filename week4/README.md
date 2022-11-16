@@ -140,3 +140,5 @@ class Mammals : public Animal
 ### Modes of inheritance 
 In C++ inheritance, we can derive a child class from the base class in different access modes, which defines how the class members and functions can be accessed.
 
+1. __Public inheritance__ makes public members of the base class public in the derived class, and the protected members of the base class remain protected in the derived class.
+2. __Protected inheritance__ makes the public and protected members of the base class protected in the derived class.
