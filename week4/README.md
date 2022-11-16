@@ -149,7 +149,8 @@ In C++ inheritance, we can derive a child class from the base class in different
 #include <iostream>
 using namespace std;
 
-class Base {
+class Base 
+{
   private:
     int pvt = 1;
 
@@ -160,25 +161,29 @@ class Base {
     int pub = 3;
 
     // function to access private member
-    int getPVT() {
-      return pvt;
+    int getPVT() 
+    {
+      return (pvt);
     }
 };
 
-class PublicDerived : public Base {
+class PublicDerived : public Base
+{
   public:
     // function to access protected member from Base
-    int getProt() {
-      return prot;
+    int getProt()
+    {
+      return (prot);
     }
 };
 
-int main() {
+int main()
+{
   PublicDerived object1;
   cout << "Private = " << object1.getPVT() << endl;
   cout << "Protected = " << object1.getProt() << endl;
   cout << "Public = " << object1.pub << endl;
-  return 0;
+  return (0);
 }
 
  ```
