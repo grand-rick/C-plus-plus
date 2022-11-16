@@ -84,3 +84,54 @@ Consider a group of vehicles, you want to create class for the different types o
 
 All of these vehicles have some similarities, they all need to be fueld, serviced and they all have a certain capacity they can carry. If we were to implement this without using classes, we would end up writting the same code for these features for the different classes.  Using Inhertance however, we can just create a base class Vehicle and create child classes from that with the specifics that match each vehicle. This would reduce redundancy of code and allow code reusability.
 
+### Implementing inheritance 
+
+The general overview of inheritance is 
+
+```
+class BaseClass
+{
+    //code here
+}
+
+class ChildClass : access_modifier Baseclass
+{
+    //some code here
+}
+
+```
+
+
+here is an example
+
+```c++
+Class Animal
+{
+
+    public: 
+        char* name;
+        int age;
+
+        char*   eat(void)
+        {
+            return ("Eating");
+        }
+
+        int grow(int moreAge)
+        {
+            age += moreAge;
+            return(age);
+        }
+};
+
+class Mammals : public Animal
+{
+
+};
+
+
+
+```
+
+### Modes of inheritance 
+
