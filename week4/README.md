@@ -70,3 +70,9 @@ Just to recap what we have covered,
 
 
 ## Inheritance 
+According to [IBM](https://www.ibm.com/docs/en/zos/2.4.0?topic=reference-inheritance-c-only), Inheritance is a mechanism of reusing and extending existing classes without necesarrily modifying them. What this means is that inhertance is a process by which a derived class acquries the properties and characteristics of a base class. 
+
+__Base Class__  is the class whose members and  methods ( properties and characteristics are to be inherited)
+
+__Derived Class__ is the class that inherits the properties of the Base class.
+
