@@ -142,3 +142,5 @@ In C++ inheritance, we can derive a child class from the base class in different
 
 1. __Public inheritance__ makes public members of the base class public in the derived class, and the protected members of the base class remain protected in the derived class.
 2. __Protected inheritance__ makes the public and protected members of the base class protected in the derived class.
+
+3. __Private inheritance__ makes the public and protected members of the base class private in the derived class.
