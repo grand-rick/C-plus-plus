@@ -420,7 +420,7 @@ class A
     {
       cout << x ;
     }
-}
+};
 
 class B 
 {
@@ -437,12 +437,12 @@ class B
     {
       cout << y;
     }
-}
+};
 
 class C : public A, public B
 {
   // some more code here
-}
+};
 
 
 int main()
@@ -457,6 +457,11 @@ int main()
 }
 ```
 
+4. __Hierarchical Inheritance__
+
+Just as the name suggest, this is a type of inheritance where there's a hierarchy of classes, there is a single base class and multiple derived classes. Furthermore, the derived classes are also inherited by some other classes. Thus a tree-like structure is formed of hierarchy.
+
+Just like a  grandfather can have characteristics that are inherited by the father.  The father's characteristics are then inherited by sons and daughter and their children as well.
 
 Credits 
 
