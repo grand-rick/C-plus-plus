@@ -44,4 +44,9 @@ Write a class Phone with four private members: name, battery, processor and RAM,
 
 <td><a href="../week4/constructors/rectangle.cpp">Solution</a></td>
 </tr>
+
+<tr>
+<td>Write a program and input two integers in main and pass them to default constructor of the class. Show the result of the additon of two numbers.</td>
+<td><a href="../week4/constructors/0-pass_to_parameterized.cpp">Solution</a></td>
+</tr>
 </table>
