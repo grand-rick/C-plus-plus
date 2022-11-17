@@ -324,7 +324,15 @@ class B : public A
 {
   // some more code here
 }
+
 ```
+2. __Multilevel inheritance__ 
+
+This is a type of inheritance in which a derived class inherits another derived class, i.e a derived class's Base class is also a derived class which happens to have a praten class too.
+
+Branching to a food based analogy, you can think of it in this way: __Food__  is the base class. __Beverage__ is a subclass of the food class and __Coffee__ is a class derived from the Beverage class. What this means is that the coffee class has two parents. 
+
+
 Credits 
 
 [Programiz](www.programiz.com)
