@@ -366,11 +366,17 @@ class Coffee : public Beverages
   {
     //some more code here
   }
-}
-
-
+};
 
 ```
+
+
+3. __Multiple inheritance__
+
+Multiple inheritance is a type of inheritance in which a derived  class inherits from more than one parent class. The derived class acquires the features and characteristics of all its parent classes 
+
+
+
 Credits 
 
 [Programiz](www.programiz.com)
