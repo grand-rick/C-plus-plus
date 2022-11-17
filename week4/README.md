@@ -463,6 +463,39 @@ Just as the name suggest, this is a type of inheritance where there's a hierarch
 
 Just like a  grandfather can have characteristics that are inherited by the father.  The father's characteristics are then inherited by sons and daughter and their children as well.
 
+The gereral syntax  is 
+
+```
+yntax
+
+    Class GrandParent  
+    {  
+        //statement(s);  
+    };  
+    Class Derived1: public GrandParent  
+    {  
+        //statement(s);  
+    };  
+    Class Derived2: public GrandParent  
+    {  
+        //statement(s);  
+    };  
+    class newderived1: public Derived1  
+    {  
+        //statement(s);  
+    };  
+    class newderived2: public Derived2  
+    {  
+        //statement(s);  
+    };
+```
+Here is a code sample
+
+```c++
+
+```
+
+
 Credits 
 
 [Programiz](www.programiz.com)
