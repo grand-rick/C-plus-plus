@@ -299,6 +299,32 @@ int main()
 ```
 
 
+### Types of inheritance 
+
+1. __Single Inheritance__
+
+Single inheritance is inheritance in which a derived  class inherits from only one base class 
+
+example
+
+```c++
+class A
+{
+  int a;
+
+  public:
+    void showA()
+    {
+      cout << a << endl;
+    }
+}
+
+
+class B : public A
+{
+  // some more code here
+}
+```
 Credits 
 
 [Programiz](www.programiz.com)
