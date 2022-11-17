@@ -397,6 +397,66 @@ class Child: public Parent1,public Parent2
 
 ```
 
+Here is a code sample.
+
+```c++
+
+#include <iostream>
+using namespace std;
+
+class A
+{
+  int x;
+  
+  public:
+
+    void getX()
+    {
+      cout << "Enter the value of x\n";
+      cin >> x
+    }
+
+    void showX()
+    {
+      cout << x ;
+    }
+}
+
+class B 
+{
+  float y;
+
+  public:
+    void getY()
+    {
+      cout << "What the value of y";
+      cin >> y;
+    }
+
+    void showY()
+    {
+      cout << y;
+    }
+}
+
+class C : public A, public B
+{
+  // some more code here
+}
+
+
+int main()
+{
+  C c;
+  c.getX();
+  c.getY();
+  c.showX();
+  c.showY();
+
+  return (0);
+}
+```
+
 
 Credits 
 
