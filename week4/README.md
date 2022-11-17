@@ -333,6 +333,44 @@ This is a type of inheritance in which a derived class inherits another derived 
 Branching to a food based analogy, you can think of it in this way: __Food__  is the base class. __Beverage__ is a subclass of the food class and __Coffee__ is a class derived from the Beverage class. What this means is that the coffee class has two parents. 
 
 
+Here is an example 
+
+```c++
+
+#include <iostream>
+using namespace std;
+
+class Food
+{
+  public:
+    void eat()
+    {
+      cout << "Food\n";
+    }
+ 
+};
+
+class Beverages : public Food
+{
+  void beverages()
+{
+   //some more code here
+
+}
+
+};
+
+class Coffee : public Beverages
+{
+  void cofee()
+  {
+    //some more code here
+  }
+}
+
+
+
+```
 Credits 
 
 [Programiz](www.programiz.com)
