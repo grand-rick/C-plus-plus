@@ -375,6 +375,27 @@ class Coffee : public Beverages
 
 Multiple inheritance is a type of inheritance in which a derived  class inherits from more than one parent class. The derived class acquires the features and characteristics of all its parent classes 
 
+An example would be class *Petrol*  as a derived class which inherits both from the *Liquid* and *Fuels* class 
+
+The general syntax for multiple inheritance is 
+
+```
+ntax:
+
+class Parent1
+{ 
+... .. ... 
+};
+class Parent2 
+{
+... .. ...
+};
+class Child: public Parent1,public Parent2
+{
+... ... ...
+};
+
+```
 
 
 Credits 
